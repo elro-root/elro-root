@@ -5,6 +5,11 @@
 
 Занимаюсь iOS разработкой чуть более трех лет. Основной опыт в продуктовой разработке. Fintech, Web3 продукты. Пишу аккуратный и производительный код в котором могут разобраться другие разработчики. Создаю быстрые и отзывчивые интерфейсы с вниманием к деталям.
 
+Стек
+-
+- **iOS**: SwiftUI, UIKit, Combine, structured concurrency, firebase, Realm, Alamofire, CoreAnimation, CoreML, XCTest
+- **CI/CD**: Fastlane, CocoaPods, SPM, SwiftLint, Tuist, Git
+
 Опыт
 -
 **Here Wallet Inc, Март 2022 – Настоящее время <br>
