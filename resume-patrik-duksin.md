@@ -9,7 +9,7 @@
 -
 **Here Wallet Inc, Март 2022 – Настоящее время <br>
 iOS Engineer** 
-herewallet.app/
+https://herewallet.app/
 
 Разработка первого мобильного криптокошелька для Near Protocol.
 
@@ -26,7 +26,7 @@ herewallet.app/
 
 **Oops Finance Inc, Март 2021 – Февраль 2022 <br>
 Lead iOS Engineer**
-www.oops.finance/
+https://oops.finance/
 
 Разработка финансового менеджера для gen z в США и вывод его в App Store, с аудиторией в десятки тысяч человек.
 
@@ -44,7 +44,7 @@ www.oops.finance/
 
 **Fora Vision, May 2020 – Февраль 2021 <br>
 iOS Engineer**
-fora.vision/
+https://fora.vision/
 
 Приложение для тренировок с распознованием упражнений на телефоне в реальном времени.
 
