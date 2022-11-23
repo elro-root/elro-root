@@ -1,6 +1,6 @@
 
 # Патрик Дуксин 
-**iOS Engineer**
+**iOS engineer with 3 years experience**
 [GitHub](https://github.com/elro-root) | [Telegram](https://t.me/elro_here) | [Email](mailto:patrikduksin@gmail.com)
 
 Занимаюсь iOS разработкой чуть более трех лет. Основной опыт в продуктовой разработке. Fintech, Web3 продукты. Пишу аккуратный и производительный код в котором могут разобраться другие разработчики. Создаю быстрые и отзывчивые интерфейсы с вниманием к деталям.
